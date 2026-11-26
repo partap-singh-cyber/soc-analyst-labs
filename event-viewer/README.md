@@ -16,7 +16,7 @@
 
 
 
-![Filtered list](list.png)
+![Filtered list](eventlist.png)
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-![4624 logon type](event-4624-type.png)
+![4624 logon type](event-4624-logon.png)
 
 
 
