@@ -14,10 +14,11 @@
 
 **Screenshot:**
 
+Failed login search, count, failures per IP address, and the accepted login:
+
 
 
 ![Linux lab results](linux-lab.png)
-
 
 
 **L1 verdict:** Five failed logins in 8 seconds from one external IP, trying common usernames, with no success, looks like a brute-force attempt. I would check the IP in AbuseIPDB and VirusTotal and escalate or block per procedure. The internal IP 192.168.1.20 failed once and then succeeded, which is most likely a typed-password mistake, so benign.
