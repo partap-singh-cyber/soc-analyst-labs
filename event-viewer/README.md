@@ -14,10 +14,15 @@
 
 **Screenshots:**
 
+Filtered list of 4625 and 4624 events:
 
 
-![Filtered list](eventlist.png)
 
+![Filtered list](list.png)
+
+
+
+4625 event (failed logon):
 
 
 
@@ -25,13 +30,23 @@
 
 
 
+4624 event, logon type:
 
-![4624 logon type](event-4624-logon.png)
 
+
+![4624 logon type](event-4624-type.png)
+
+
+
+4624 event, account name:
 
 
 
 ![4624 account](event-4624-account.png)
+
+
+
+
 
 
 
